@@ -1247,14 +1247,6 @@ const App = () =>{
       </section>
     </section>
    </main>
-
-
-
-
-
-
-
-
    <footer className='bg-sky-800 mb-1'>
     
      <section>
@@ -1294,8 +1286,6 @@ const App = () =>{
         alt="لوگوی سایت ۲" 
       />
     </div>
-
-    
   </div>
 </section>
 
@@ -1336,10 +1326,7 @@ const App = () =>{
    <section className='text-black text-xs top-0 lg:text-center lg:top-1'>
      <div>تمامی حقوق مادی و معنوی این سایت متعلق به تاپ لرن می باشد و هرگونه کپی برداری غیرقانونی محسوب خواهد شد</div>
     </section>
-     
-    
     </>
-
   )
 }
 
